@@ -1,2 +1,0 @@
-A4/ratings.csv filter=lfs diff=lfs merge=lfs -text
-A4/credits.csv filter=lfs diff=lfs merge=lfs -text
